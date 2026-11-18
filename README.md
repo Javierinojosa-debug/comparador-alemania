@@ -27,7 +27,7 @@ Solo se aceptan ids de la lista. El número elegido se mantiene en las páginas 
 `?h1=Texto del titular&em=palabra`: cambia el titular y resalta la palabra (se inserta como texto, sin HTML).
 
 ## Pendiente
-- `GTM-XXXXXXX` → contenedor GTM de Alemania (4 páginas).
+- GTM: `GTM-TS3H8PLX` (contenedor energyhotline.de, cuenta comparaluzygas.es).
 - `+34 XXX XXX XXX` → teléfono del editor en el Impressum (obligatorio por § 5 DDG).
 - Cookiebot: dar de alta `energyhotline.de`, banner en alemán con «Alle ablehnen» al mismo nivel que «Alle akzeptieren».
 - Dominio: comprar `energyhotline.de` y conectarlo en Netlify.
