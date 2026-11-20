@@ -19,7 +19,7 @@ El número por defecto es el del grupo **12546**. Para mostrar otro, añade `?n=
 |---|---|---|
 | `12546` (defecto) | de-ei-pa-javier12546 | 089 3803 8727 |
 | `12547` | de-ei-pa-javier12547 | 089 3803 4157 |
-| `12548` | de-ei-pa-javier12548 | *pendiente* — añadirlo en `phones` cuando lo pase Selectra |
+| `12548` | de-ei-pa-javier12548 | 089 3803 4154 |
 
 Solo se aceptan ids de la lista. El número elegido se mantiene en las páginas legales durante la visita y se envía a GTM como evento `phone_variant`.
 
